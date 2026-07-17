@@ -53,5 +53,4 @@ Empfehlung: Konzentration konsequent auf Zielwert 6,5% ± 0,5% halten (Mitte des
 ```
 ├── screenshots/               # Enthält die Dashboard-Bilder für dieses README
 ├── QS_Dashboard_Welle.pbit    # Die datenfreie Power BI-Vorlage zur Code-Einsicht
-├── .gitignore                 # Blockiert den Upload lokaler Excel-Quellen und Datencaches
 └── README.md                  # Projekt-Dokumentation
