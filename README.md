@@ -7,7 +7,7 @@ Ein interaktives Power BI-Dashboard zur Überwachung von Fertigungsqualitäten, 
 In der industriellen Serienfertigung von Nockenwellen ist die Einhaltung enger Toleranzen bei Härte- und Rissprüfungen entscheidend für die Bauteilintegrität. Dieses Projekt demonstriert, wie unstrukturierte Qualitätsdaten automatisiert aufbereitet werden können, um:
 1. Qualitäts-KPIs (Prüfmengen, Ausschussquoten) abteilungsübergreifend transparent zu machen.
 2. Prozessabweichungen auf Maschinenebene (Maschine 22 vs. Maschine 34) frühzeitig zu identifizieren.
-3. physikalische Ursachenketten*durch die Verknüpfung von Qualitäts- und Prozessparametern (z. B. Konzentration des Abschreckmediums) datengetrieben nachzuweisen.
+3. physikalische Ursachenketten durch die Verknüpfung von Qualitäts- und Prozessparametern (z. B. Konzentration des Abschreckmediums) datengetrieben nachzuweisen.
 
 
 ## Dashboard-Übersicht (Screenshots)
@@ -26,9 +26,9 @@ Das Herzstück des Dashboards – eine Korrelationsanalyse zwischen den Ausschus
 ![Ursachenanalyse](<img width="1920" height="1032" alt="M22   M34 Vergleich" src="https://github.com/user-attachments/assets/92834a38-efca-4a98-bcb8-6a3bf0690916" />)
 
 
-## Analytischer Case-Study: Root Cause Analysis (M34)
+## Analytischer Case-Study: (M34)
 
-Das Dashboard liefert über den reinen Status-Quo hinaus eine strukturierte Ursachenanalyse für ein reales Fertigungsproblem im ersten Quartal:
+Das Dashboard liefert über den reinen Status hinaus eine strukturierte Ursachenanalyse für ein reales Fertigungsproblem im ersten Quartal:
 
 JANUAR — Kritischer Ausgangspunkt : Konzentration Ø 4,4% (deutlich unter Soll-Min 5%). Die Abschreckwirkung war zu stark,  das Abschreckmedium verhielt sich nahezu wie reines Wasser. Ergebnis: höchster Ausschuss im Quartal — Härte 9,09%, Riss 5,04%. Die zu schnelle Abkühlung führte zu Härteüberschreitungen und thermischen Spannungen, die Mikrorisse begünstigten.
 
