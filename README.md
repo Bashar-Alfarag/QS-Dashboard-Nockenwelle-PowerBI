@@ -43,8 +43,7 @@ Empfehlung: Konzentration konsequent auf Zielwert 6,5% ± 0,5% halten (Mitte des
 ##  Technische Umsetzung & Datenmodellierung
 
 * Architektur: Power BI Desktop / Datenmodellierung über Sternschema.
-* Sprachen & Tools: 
-* DAX (Data Analysis Expressions): Erstellung von zeitintelligenten Measures (Time Intelligence) für monatliche Vergleiche, dynamische Ausschussquotenberechnung und aggregierte KPI-Karten.
+* Sprachen & Tools: DAX (Data Analysis Expressions): Erstellung von zeitintelligenten Measures (Time Intelligence) für monatliche Vergleiche, dynamische Ausschussquotenberechnung und aggregierte KPI-Karten.
 * Power Query (M-Code): ETL-Prozess zur Bereinigung von Schichtbüchern, automatisierter Datentyp-Konvertierung und Zusammenführung von Prüfprotokollen.
 * Visualisierung Best Practices: Striktes, einheitliches Farbkonzept (Violett für Mengen, Rot/Orange für Ausschuss), klare visuelle Trennung von Stichproben- und Vollprüfungen sowie nahtlose User Experience durch konsistente Navigations-Buttons.
 
