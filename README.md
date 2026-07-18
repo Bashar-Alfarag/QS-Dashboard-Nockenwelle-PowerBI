@@ -14,7 +14,7 @@ In der industriellen Serienfertigung von Nockenwellen ist die Einhaltung enger T
 
 1. Startseite / Globales KPI-Board
 Zentraler Einstiegspunkt mit intuitiver Kachelnavigation und den wichtigsten Kernmetriken (Gesamtprüfmenge, Gesamtausschuss sowie maschinenspezifische Aufteilung).
-![Startseite](<img width="1920" height="1032" alt="START" src="https://github.com/user-attachments/assets/aee69a0f-e17e-49e3-b21b-24d4bd9b57c9" />)
+![Startseite]([<img width="1920" height="1032" alt="START" src="https://github.com/user-attachments/assets/aee69a0f-e17e-49e3-b21b-24d4bd9b57c9" />)](https://github.com/Bashar-Alfarag/QS-Dashboard-Nockenwelle-PowerBI/blob/main/screenshots/START.png?raw=true)
 
 
 ### 2. Prozess-Ebene: Härteprüfung (Stichprobe)
